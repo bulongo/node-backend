@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "ws": "3.3.2"
+  },
+  "name": "first",
+  "version": "1.0.0",
+  "description": "backend to learn node.js",
+  "main": "1-intro.js",
+  "dependencies": {
+    "async-limiter": "^1.0.1",
+    "safe-buffer": "^5.1.2",
+    "ultron": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dustparticle",
+  "license": "ISC"
+}
